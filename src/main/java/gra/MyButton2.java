@@ -21,7 +21,7 @@ public class MyButton2 extends JButton {
     if (getModel().isArmed()) {
    	 setBackground(kolor);
        } else {
-       	 setBackground(Color.GRAY);
+       	 setBackground(Color.LIGHT_GRAY);
        }
     }
 }

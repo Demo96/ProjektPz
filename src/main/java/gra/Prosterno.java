@@ -26,7 +26,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.LinkedList;
 
-public class Prosterno extends JPanel implements MouseListener, ActionListener {
+public class Prosterno extends JPanel implements MouseListener, ActionListener,OperacjePionki {
 	public int width, height, rPola, rOdstepu, rPionka;
 	public LinkedList<Pionek> listapionkow;
 	public int aktualnyPionek = -1;
@@ -53,7 +53,8 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 	private String password = "";
 	public boolean wygrana = false;
 	public int jezykGra;
-
+	public PrzesunPionka pp;
+	public UsunPionka up;
 	public void MouseSpyApplet() {
 		addMouseListener(this);
 	}
@@ -93,6 +94,10 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 		add(zapisz2);
 		add(zapisz3);
 		StworzPionki(kolor1, kolor2, zapis);
+		pp=new PrzesunPionka();
+		up=new UsunPionka();
+		pp.addListener(this);
+		up.addListener(this);
 
 	}
 
@@ -183,9 +188,9 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 		int nower = listapionkow.get(p).rzad + 2 * y;
 
 		if (nowek > 8 || nowek < 0 || nower < 0 || nower > 7 || czyZajete(nowek, nower) != -1) {
-			UsunPionka(p);
+			up.usunpionek(p);
 		} else {
-			PrzesunPionka(p, nowek, nower);
+			pp.przesunpionek(p, nowek, nower);
 		}
 
 	}
@@ -277,7 +282,7 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 									temp = true;
 							}
 							if (temp) {
-								PrzesunPionka(aktualnyPionek, nrx, nry);
+								pp.przesunpionek(aktualnyPionek, nrx, nry);
 								aktualnyPionek = -1;
 								if (!wygrana) {
 									AktualnyGracz(kolor2);
@@ -302,7 +307,7 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 									temp = true;
 							}
 							if (temp) {
-								PrzesunPionka(aktualnyPionek, nrx, nry);
+								pp.przesunpionek(aktualnyPionek, nrx, nry);
 								aktualnyPionek = -1;
 								if (!wygrana)
 									AktualnyGracz(kolor1);
@@ -419,35 +424,7 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 			e.printStackTrace();
 		}
 
-	}
-
-	
-	public void PrzesunPionka(int nrpionka, int x, int y) {
-		main.log.info("przesuniecie pionka nr " + nrpionka + " na pole " + (char) (65 + x) + (y + 1));
-		listapionkow.get(nrpionka).kolumna = x;
-		listapionkow.get(nrpionka).rzad = y;
-		sasiedzi(listapionkow.get(nrpionka));
-		sprawdzKoniec(listapionkow.get(nrpionka));
-
-	}
-
-	
-	public void UsunPionka(int i) {
-		if (listapionkow.get(i).kolor == kolor1) {
-			pionki1 -= 1;
-			main.log.info("usunieto pionka nr " + i + "graczowi 1 pozostalo " + pionki1 + " pionkow");
-			if (pionki1 == 0)
-				wygrana(2);
-		} else {
-			pionki2 -= 1;
-			main.log.info("usunieto pionka nr " + i + "graczowi 2 pozostalo " + pionki2 + " pionkow");
-			if (pionki2 == 0)
-				wygrana(1);
-		}
-		listapionkow.remove(i);
-	}
-
-	
+	}	
 	public void StworzPionki(Color c1, Color c2, int zapis) {
 		if (zapis == 0) {
 			listapionkow.add(new Pionek(c1, 1, 0));
@@ -522,6 +499,33 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 	
 	public void AktualnyGracz(Color x) {
 		czyjruch = x;
+	}
+
+	@Override
+	public void przesunpionka(PrzesunPionkaEvent e) {
+		main.log.info(e.toString()+"przesuniecie pionka nr " + e.nrpionka + " na pole " + (char) (65 + e.x) + (e.y + 1));
+		listapionkow.get(e.nrpionka).kolumna = e.x;
+		listapionkow.get(e.nrpionka).rzad = e.y;
+		sasiedzi(listapionkow.get(e.nrpionka));
+		sprawdzKoniec(listapionkow.get(e.nrpionka));
+		
+	}
+
+	@Override
+	public void usunpionka(UsunPionkaEvent e) {
+		if (listapionkow.get(e.i).kolor == kolor1) {
+			pionki1 -= 1;
+			main.log.info(e.toString()+"usunieto pionka nr " + e.i + "graczowi 1 pozostalo " + pionki1 + " pionkow");
+			if (pionki1 == 0)
+				wygrana(2);
+		} else {
+			pionki2 -= 1;
+			main.log.info(e.toString()+"usunieto pionka nr " + e.i + "graczowi 2 pozostalo " + pionki2 + " pionkow");
+			if (pionki2 == 0)
+				wygrana(1);
+		}
+		listapionkow.remove(e.i);
+		
 	}
 
 }
