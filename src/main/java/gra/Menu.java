@@ -25,28 +25,30 @@ import org.apache.http.util.EntityUtils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-
-public class Menu extends JPanel implements ActionListener {
+public class Menu extends JPanel implements ActionListener, ZmianaUstawienListener {
 	PolandTime country = null;
-	public Button nowa;
-	public Button wczytaj1;
-	public Button wczytaj2;
-	public Button wczytaj3;
-	public Button ustawienia;
+	public MyButton2 nowa;
+	public MyButton2 wczytaj1;
+	public MyButton2 wczytaj2;
+	public MyButton2 wczytaj3;
+	public MyButton2 ustawienia;
 	public ActionFrame main;
-	public String nowat[]= {"Nowa gra","New Game"};
-	public String wczytaj1t[]= {"Wczytaj gre: Zapis1","Load Game: Slot1"};
-	public String wczytaj2t[]= {"Wczytaj gre: Zapis2","Load Game: Slot2"};
-	public String wczytaj3t[]= {"Wczytaj gre: Zapis3","Load Game: Slot3"};
-	public String ustawieniat[]= {"Ustawienia","Seetings"};
-	public Menu(ActionFrame m) {
+	public String nowat[] = { "Nowa gra", "New Game" };
+	public String wczytaj1t[] = { "Wczytaj gre: Zapis1", "Load Game: Slot1" };
+	public String wczytaj2t[] = { "Wczytaj gre: Zapis2", "Load Game: Slot2" };
+	public String wczytaj3t[] = { "Wczytaj gre: Zapis3", "Load Game: Slot3" };
+	public String ustawieniat[] = { "Ustawienia", "Seetings" };
+	public int jezykMenu;
+
+	public Menu(ActionFrame m,int j) {
 
 		main = m;
-		nowa = new Button(nowat[main.jezyk]);
-		wczytaj1 = new Button(wczytaj1t[main.jezyk]);
-		wczytaj2 = new Button(wczytaj2t[main.jezyk]);
-		wczytaj3 = new Button(wczytaj3t[main.jezyk]);
-		ustawienia = new Button(ustawieniat[main.jezyk]);
+		jezykMenu=j;
+		nowa = new MyButton2(nowat[jezykMenu],Color.YELLOW);
+		wczytaj1 = new MyButton2(wczytaj1t[jezykMenu],Color.GREEN);
+		wczytaj2 = new MyButton2(wczytaj2t[jezykMenu],Color.GREEN);
+		wczytaj3 = new MyButton2(wczytaj3t[jezykMenu],Color.GREEN);
+		ustawienia = new MyButton2(ustawieniat[jezykMenu],Color.CYAN);
 		GridBagLayout layout = new GridBagLayout();
 		GridBagConstraints c = new GridBagConstraints();
 		setLayout(layout);
@@ -83,51 +85,76 @@ public class Menu extends JPanel implements ActionListener {
 		wczytaj3.addActionListener(this);
 		ustawienia.addActionListener(this);
 	}
+
 	public void paint(Graphics g) {
-		g.setColor(main.tlo);
-		g.fillRect(0, 0, 800, 600);
+		super.paint(g);
+		setBackground(main.tlo);
 		g.setColor(Color.BLACK);
 		g.setFont(new Font("", Font.BOLD | Font.ITALIC, 60));
 		g.drawString("PROSTERNO", 200, 100);
+
 	}
+
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		// width = getWidth();
 		// height = getHeight();
 		if (e.getSource() == nowa) {
 			main.log.info("utworzenie nowej gry");
-			Prosterno prosterno = new Prosterno(main,0);
-			main.prosterno=prosterno;
+			Prosterno prosterno = new Prosterno(main, 0,main.tlo,jezykMenu);
+			main.prosterno = prosterno;
 			main.cardPanel.remove(prosterno);
 			main.cardPanel.add(main.prosterno, "prosterno");
 			main.cardLayout.show(main.cardPanel, "prosterno");
 		} else if (e.getSource() == wczytaj1) {
 			main.log.info("zaladowanie gry: zapis1");
-			Prosterno prosterno = new Prosterno(main,1);
-			main.prosterno=prosterno;
+			Prosterno prosterno = new Prosterno(main, 1,main.tlo,jezykMenu);
+			main.prosterno = prosterno;
 			main.cardPanel.remove(prosterno);
 			main.cardPanel.add(main.prosterno, "prosterno");
 			main.cardLayout.show(main.cardPanel, "prosterno");
 		} else if (e.getSource() == wczytaj2) {
 			main.log.info("zaladowanie gry: zapis2");
-			Prosterno prosterno = new Prosterno(main,2);
-			main.prosterno=prosterno;
+			Prosterno prosterno = new Prosterno(main, 2,main.tlo,jezykMenu);
+			main.prosterno = prosterno;
 			main.cardPanel.remove(prosterno);
 			main.cardPanel.add(main.prosterno, "prosterno");
 			main.cardLayout.show(main.cardPanel, "prosterno");
 		} else if (e.getSource() == wczytaj3) {
 			main.log.info("zaladowanie gry: zapis3");
-			Prosterno prosterno = new Prosterno(main,3);
-			main.prosterno=prosterno;
+			Prosterno prosterno = new Prosterno(main, 3,main.tlo,jezykMenu);
+			main.prosterno = prosterno;
 			main.cardPanel.remove(prosterno);
 			main.cardPanel.add(main.prosterno, "prosterno");
 			main.cardLayout.show(main.cardPanel, "prosterno");
 		} else if (e.getSource() == ustawienia) {
 			main.log.info("przejscie do ustawien");
-			main.ustawienia.setCurr(main.kolor1,main.kolor2,main.tlo,main.jezyk);
+			main.ustawienia.setCurr(main.kolor1, main.kolor2, main.tlo, jezykMenu);
 			main.cardLayout.show(main.cardPanel, "ustawienia");
 		}
 
+	}
+
+	@Override
+	public void zmientlo(ZmianaTlaEvent e) {
+	}
+
+	@Override
+	public void zmienjezyk(ZmianaJezykaEvent e) {
+		jezykMenu=e.jezyk;
+		nowa.setLabel(main.menu.nowat[jezykMenu]);
+		wczytaj1.setLabel(main.menu.wczytaj1t[jezykMenu]);
+		wczytaj2.setLabel(main.menu.wczytaj2t[jezykMenu]);
+		wczytaj3.setLabel(main.menu.wczytaj3t[jezykMenu]);
+		ustawienia.setLabel(main.menu.ustawieniat[jezykMenu]);
+		main.log.info(e.toString());
+		
+	}
+
+	@Override
+	public void zmiengraczy(ZmianaGraczyEvent e) {
+		// TODO Auto-generated method stub
+		
 	}
 
 }

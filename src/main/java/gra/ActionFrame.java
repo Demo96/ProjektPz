@@ -29,7 +29,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-public class ActionFrame extends JFrame implements ActionListener {
+public class ActionFrame extends JFrame implements ActionListener,ZmianaUstawienListener {
 	public Color kolor1 = Color.WHITE, kolor2 = Color.BLACK, tlo = Color.GRAY;
 	CardLayout cardLayout = new CardLayout();
 	JPanel cardPanel = new JPanel(cardLayout);
@@ -68,9 +68,9 @@ public class ActionFrame extends JFrame implements ActionListener {
 		setMinimumSize(new Dimension(width, height));
 		setPreferredSize(new Dimension(width, height));
 		setResizable(false);
-		prosterno = new Prosterno(this, 0);
+		prosterno = new Prosterno(this, 0,tlo,jezyk);
+		menu = new Menu(this,jezyk);
 		ustawienia = new Ustawienia(this);
-		menu = new Menu(this);
 		log.info("rozpoczecie programu");
 		cardPanel.add(menu, "menu");
 		cardPanel.add(prosterno, "prosterno");
@@ -250,32 +250,32 @@ public class ActionFrame extends JFrame implements ActionListener {
 			styl2.setSelected(false);
 		} else if (e.getSource() == ust) {
 			log.info("przejscie do ustawien");
-			ustawienia.setCurr(kolor1, kolor2, tlo, jezyk);
+			ustawienia.setCurr(kolor1, kolor2, tlo, menu.jezykMenu);
 			cardLayout.show(cardPanel, "ustawienia");
 		} else if (e.getSource() == nowa) {
 			log.info("utworzenie nowej gry");
-			Prosterno prosternox = new Prosterno(this, 0);
+			Prosterno prosternox = new Prosterno(this, 0,tlo,jezyk);
 			prosterno = prosternox;
 			cardPanel.remove(prosterno);
 			cardPanel.add(prosterno, "prosterno");
 			cardLayout.show(cardPanel, "prosterno");
 		} else if (e.getSource() == load1) {
 			log.info("zaladowanie gry: zapis1");
-			Prosterno prosternox = new Prosterno(this, 1);
+			Prosterno prosternox = new Prosterno(this, 1,tlo,jezyk);
 			prosterno = prosternox;
 			cardPanel.remove(prosterno);
 			cardPanel.add(prosterno, "prosterno");
 			cardLayout.show(cardPanel, "prosterno");
 		} else if (e.getSource() == load2) {
 			log.info("zaladowanie gry: zapis2");
-			Prosterno prosternox = new Prosterno(this, 2);
+			Prosterno prosternox = new Prosterno(this, 2,tlo,jezyk);
 			prosterno = prosternox;
 			cardPanel.remove(prosterno);
 			cardPanel.add(prosterno, "prosterno");
 			cardLayout.show(cardPanel, "prosterno");
 		} else if (e.getSource() == load3) {
 			log.info("zaladowanie gry: zapis3");
-			Prosterno prosternox = new Prosterno(this, 3);
+			Prosterno prosternox = new Prosterno(this, 3,tlo,jezyk);
 			prosterno = prosternox;
 			cardPanel.remove(prosterno);
 			cardPanel.add(prosterno, "prosterno");
@@ -285,5 +285,30 @@ public class ActionFrame extends JFrame implements ActionListener {
 			cardLayout.show(cardPanel, "menu");
 		}
 
+	}
+
+	@Override
+	public void zmientlo(ZmianaTlaEvent e) {
+		tlo=e.tlo;
+		log.info(e.toString());
+		
+	}
+
+	@Override
+	public void zmienjezyk(ZmianaJezykaEvent e) {
+		jezyk=e.jezyk;
+		odswierz();
+		log.info(e.toString());
+		
+	}
+
+	@Override
+	public void zmiengraczy(ZmianaGraczyEvent e) {
+		nazwa1=e.g1;
+		nazwa2=e.g2;
+		kolor1=e.k1;
+		kolor2=e.k2;
+		log.info(e.toString());
+		
 	}
 }

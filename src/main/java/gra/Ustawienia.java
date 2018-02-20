@@ -19,14 +19,14 @@ import javax.swing.JTextField;
 import javax.swing.SpringLayout;
 
 public class Ustawienia extends JPanel implements ActionListener {
-	public Button jezyk;
-	public Button gracz1;
-	public Button gracz2;
-	public Button tlo;
-	public Button zapisz;
-	public Button domyslne;
-	public JTextField nazwa1;
-	public JTextField nazwa2;
+	public MyButton jezyk;
+	public MyButton gracz1;
+	public MyButton gracz2;
+	public MyButton tlo;
+	public MyButton zapisz;
+	public MyButton domyslne;
+	public MyTextField nazwa1;
+	public MyTextField nazwa2;
 	public ActionFrame main;
 	public int currjezyk;
 	public Color currgracz1, currgracz2, currtlo;
@@ -39,34 +39,41 @@ public class Ustawienia extends JPanel implements ActionListener {
 	public String[] tlozt = { "kolor tla= Zolty", "background color= Yellow" };
 	public String[] domyslnet = { "Przywroc ustawienia domyslne", "Restore Default" };
 	public String[] zapiszt = { "ZAPISZ I WYJDZ", "SAVE AND QUIT" };
+	public ZmianaTla zt = new ZmianaTla();
+	public ZmianaJezyka zj = new ZmianaJezyka();
+	public ZmianaGraczy zg = new ZmianaGraczy();
 
 	public Ustawienia(ActionFrame af) {
 		this.main = af;
+		zt.addListener(main);
+		zj.addListener(main.menu);
+		zj.addListener(main);
+		zg.addListener(main);
 		SpringLayout layout = new SpringLayout();
 		setLayout(layout);
-		jezyk = new Button(jezykt[main.jezyk]);
+		jezyk = new MyButton(jezykt[main.jezyk]);
 		if (main.kolor1 == Color.WHITE)
-			gracz1 = new Button(gracz1bt[main.jezyk]);
+			gracz1 = new MyButton(gracz1bt[main.jezyk]);
 		else
-			gracz1 = new Button(gracz1ct[main.jezyk]);
+			gracz1 = new MyButton(gracz1ct[main.jezyk]);
 		if (main.kolor2 == Color.BLACK)
-			gracz2 = new Button(gracz2ct[main.jezyk]);
+			gracz2 = new MyButton(gracz2ct[main.jezyk]);
 		else
-			gracz2 = new Button(gracz2mt[main.jezyk]);
+			gracz2 = new MyButton(gracz2mt[main.jezyk]);
 		if (main.tlo == Color.GRAY)
-			tlo = new Button(tlost[main.jezyk]);
+			tlo = new MyButton(tlost[main.jezyk]);
 		else
-			tlo = new Button(tlozt[main.jezyk]);
-		zapisz = new Button(zapiszt[main.jezyk]);
-		domyslne = new Button(domyslnet[main.jezyk]);
+			tlo = new MyButton(tlozt[main.jezyk]);
+		zapisz = new MyButton(zapiszt[main.jezyk]);
+		domyslne = new MyButton(domyslnet[main.jezyk]);
 		jezyk.addActionListener(this);
 		gracz1.addActionListener(this);
 		gracz2.addActionListener(this);
 		tlo.addActionListener(this);
 		zapisz.addActionListener(this);
 		domyslne.addActionListener(this);
-		nazwa1 = new JTextField(main.nazwa1);
-		nazwa2 = new JTextField(main.nazwa2);
+		nazwa1 = new MyTextField(main.nazwa1);
+		nazwa2 = new MyTextField(main.nazwa2);
 		nazwa1.setPreferredSize(new Dimension(315, 25));
 		layout.putConstraint(SpringLayout.WEST, nazwa1, 75, SpringLayout.WEST, this);
 		layout.putConstraint(SpringLayout.NORTH, nazwa1, 75, SpringLayout.NORTH, this);
@@ -100,6 +107,7 @@ public class Ustawienia extends JPanel implements ActionListener {
 		add(domyslne);
 		add(zapisz);
 	}
+
 	public void setCurr(Color g1, Color g2, Color t, int j) {
 		currgracz1 = g1;
 		currgracz2 = g2;
@@ -109,6 +117,8 @@ public class Ustawienia extends JPanel implements ActionListener {
 		nazwa1.setText(main.nazwa1);
 		nazwa2.setText(main.nazwa2);
 		setBackground(currtlo);
+		nazwa1.setBackground(Color.WHITE);
+		nazwa2.setBackground(Color.WHITE);
 	}
 
 	@Override
@@ -142,7 +152,8 @@ public class Ustawienia extends JPanel implements ActionListener {
 				main.log.info("tlo zmiana koloru na gray");
 				currtlo = Color.GRAY;
 				tlo.setLabel(tlost[currjezyk]);
-			}setBackground(currtlo);
+			}
+			setBackground(currtlo);
 		} else if (e.getSource() == jezyk) {
 			if (currjezyk == 0) {
 				main.log.info("zmiana jezyka na angielski");
@@ -155,47 +166,45 @@ public class Ustawienia extends JPanel implements ActionListener {
 			}
 			jezyk.setLabel(jezykt[currjezyk]);
 		} else if (e.getSource() == domyslne) {
-			main.jezyk = 0;
+			setCurr(Color.WHITE, Color.BLACK, Color.GRAY, 0);
+			zj.ustawjezyk(0);
 			jezyk.setLabel(jezykt[main.jezyk]);
-			main.tlo = Color.GRAY;
+			zt.ustawtlo(Color.GRAY);
 			tlo.setLabel(tlost[main.jezyk]);
-			main.kolor2 = Color.BLACK;
 			gracz2.setLabel(gracz2ct[main.jezyk]);
-			main.kolor1 = Color.WHITE;
 			gracz1.setLabel(gracz1bt[main.jezyk]);
 			nazwa1.setText("John");
 			nazwa2.setText("James");
+			zg.ustawgraczy("John", "James", Color.WHITE, Color.BLACK);
 			main.log.info("przywrocenie ustawien domyslnych");
 		} else if (e.getSource() == zapisz) {
+			nazwa1.setBackground(Color.WHITE);
+			nazwa2.setBackground(Color.WHITE);
 			if (nazwa1.getText().length() > 11) {
 				main.log.warning("TooLongNameException(\"nazwa gracz1 ma wiecej niz 11 znakow\")");
+				nazwa1.setBackground(Color.RED);
 				throw new TooLongNameException("nazwa gracz1 ma wiecej niz 11 znakow");
 			}
 			if (nazwa2.getText().length() > 11) {
 				main.log.warning("TooLongNameException(\"nazwa gracz2 ma wiecej niz 11 znakow\")");
+				nazwa2.setBackground(Color.RED);
 				throw new TooLongNameException("nazwa gracz2 ma wiecej niz 11 znakow");
 			}
 			if (nazwa1.getText().length() == 0) {
 				main.log.warning("NoNameException(\"brak nazwy gracza1\")");
+				nazwa1.setBackground(Color.RED);
 				throw new NoNameException("brak nazwy gracza1");
 			}
 			if (nazwa2.getText().length() == 0) {
 				main.log.warning("NoNameException(\"brak nazwy gracza2\")");
+				nazwa2.setBackground(Color.RED);
 				throw new NoNameException("brak nazwy gracza2");
 			}
-			main.nazwa1 = nazwa1.getText();
-			main.nazwa2 = nazwa2.getText();
-			main.kolor1 = currgracz1;
-			main.kolor2 = currgracz2;
-			main.tlo = currtlo;
-			main.jezyk = currjezyk;
-			main.menu.nowa.setLabel(main.menu.nowat[main.jezyk]);
-			main.menu.wczytaj1.setLabel(main.menu.wczytaj1t[main.jezyk]);
-			main.menu.wczytaj2.setLabel(main.menu.wczytaj2t[main.jezyk]);
-			main.menu.wczytaj3.setLabel(main.menu.wczytaj3t[main.jezyk]);
-			main.menu.ustawienia.setLabel(main.menu.ustawieniat[main.jezyk]);
+
+			zg.ustawgraczy(nazwa1.getText(), nazwa2.getText(), currgracz1, currgracz2);
+			zt.ustawtlo(currtlo);
+			zj.ustawjezyk(currjezyk);
 			main.cardLayout.show(main.cardPanel, "menu");
-			main.odswierz();
 			zapisz();
 			main.log.info("zapisano ustawienia");
 		}

@@ -1354,3 +1354,1671 @@ lut 20, 2018 4:37:54 PM gra.Ustawienia actionPerformed
 INFO: zapisano ustawienia
 lut 20, 2018 4:37:54 PM gra.Menu actionPerformed
 INFO: utworzenie nowej gry
+lut 20, 2018 5:31:27 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:32:18 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:32:24 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 5:32:27 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:32:30 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:32:34 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:32:36 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:32:54 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:32:57 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 5:32:58 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:32:59 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:33:00 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:33:02 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:33:02 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:33:03 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 5:33:04 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:33:07 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:33:09 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 5:33:10 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:33:42 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:33:43 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:33:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 5:33:44 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:35:23 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:35:25 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:35:26 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:35:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 5:35:55 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:35:56 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:35:56 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:35:57 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 5:40:47 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:40:48 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:40:49 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:40:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 5:40:50 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:40:51 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 5:40:52 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:43:45 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:43:47 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 5:43:48 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 5:43:48 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 5:43:48 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 5:57:09 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 5:57:11 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:04:03 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:04:04 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:04:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:04:06 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:04:07 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@306a6e14]
+lut 20, 2018 6:04:07 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:04:09 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@306a6e14]
+lut 20, 2018 6:04:09 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:04:24 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:04:25 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:04:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:04:26 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:04:27 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:04:27 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:04:33 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:04:35 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:04:37 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:04:37 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:04:38 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:04:41 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:04:42 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:04:42 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:04:43 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:05:00 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:05:01 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:05:02 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:05:02 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:05:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:05:03 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:05:04 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:05:05 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:05:05 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:05:06 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:05:08 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:05:10 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:05:10 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:05:57 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:05:59 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:06:00 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:06:01 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:06:02 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:06:02 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:06:03 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:06:04 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 6:06:05 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:06:05 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:06:06 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:06:06 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:06:07 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:06:08 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:06:08 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:06:08 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:06:10 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:06:11 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:06:11 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:06:11 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:06:12 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:06:13 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:06:13 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:06:13 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:06:13 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:09:27 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:09:28 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:09:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:09:32 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:09:33 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@143e6517]
+lut 20, 2018 6:09:33 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:09:33 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:09:58 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:09:58 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:09:59 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:10:00 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:10:00 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@143e6517]
+lut 20, 2018 6:10:00 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:10:00 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:01 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:10:03 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@143e6517]
+lut 20, 2018 6:10:03 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:10:06 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:07 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:10:07 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:10:08 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:10:09 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:10:09 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:10:11 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:10:11 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@143e6517]
+lut 20, 2018 6:10:11 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:10:12 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:13 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:10:16 PM gra.ActionFrame actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:10:26 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:10:28 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:10:29 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:10:29 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@143e6517]
+lut 20, 2018 6:10:30 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:10:30 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:31 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:10:31 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:10:32 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@143e6517]
+lut 20, 2018 6:10:32 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:10:32 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:33 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@143e6517]
+lut 20, 2018 6:10:33 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:10:50 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:10:51 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:10:53 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:10:55 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:10:55 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:10:57 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:10:58 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 6:10:58 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:10:59 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:10:59 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:11:00 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:11:01 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 6:11:02 PM gra.ActionFrame actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:11:03 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:11:05 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 6:11:05 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:11:05 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:11:06 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:11:07 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 6:17:31 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:17:33 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:17:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:17:36 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:17:37 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:17:39 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:17:39 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:17:39 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@3afb92b6]
+lut 20, 2018 6:17:39 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:17:40 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:17:41 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:17:42 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:17:43 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 6:17:43 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@3afb92b6]
+lut 20, 2018 6:17:43 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:17:44 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:17:46 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:17:48 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:17:48 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:17:49 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@3afb92b6]
+lut 20, 2018 6:17:49 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:17:49 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:17:51 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:24:27 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:24:28 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:24:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:24:31 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:24:36 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:24:37 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:24:38 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:24:39 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:24:39 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:24:39 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@758fb899]
+lut 20, 2018 6:24:39 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:24:40 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:24:41 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 6:24:41 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:24:41 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@758fb899]
+lut 20, 2018 6:24:41 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:25:17 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:25:18 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:25:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:25:20 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:25:20 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:25:29 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:25:29 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:25:29 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:34:49 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:34:51 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:34:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:34:54 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 6:34:55 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:34:55 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@77555644]
+lut 20, 2018 6:34:55 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@758fb899]
+lut 20, 2018 6:34:55 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@758fb899]
+lut 20, 2018 6:34:55 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:34:56 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:34:59 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:35:48 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:35:49 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:35:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:35:51 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 6:35:53 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:35:53 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:35:53 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@55477f04]
+lut 20, 2018 6:35:53 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@55477f04]
+lut 20, 2018 6:35:53 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:35:54 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:35:56 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:35:57 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:35:58 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 6:35:59 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:35:59 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:35:59 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@55477f04]
+lut 20, 2018 6:35:59 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@55477f04]
+lut 20, 2018 6:35:59 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:35:59 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:36:03 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:36:03 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@6740ac13]
+lut 20, 2018 6:36:03 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@55477f04]
+lut 20, 2018 6:36:03 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@55477f04]
+lut 20, 2018 6:36:03 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:36:52 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:36:52 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:36:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:36:54 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 6:36:55 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:36:55 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:36:55 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:36:55 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:36:55 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:36:55 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:36:56 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:36:56 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:36:57 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 6:36:57 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:36:57 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:36:57 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:36:57 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:36:57 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:36:58 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:37:00 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 6:37:02 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:37:03 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 6:37:05 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 6:37:05 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 6:37:08 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:37:08 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:37:08 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:37:08 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:37:08 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:37:09 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:37:10 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 6:37:13 PM gra.ActionFrame actionPerformed
+INFO: zaladowanie gry: zapis3
+lut 20, 2018 6:37:15 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 6:37:15 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 6:38:35 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:38:36 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:38:37 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:38:40 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz2 ma wiecej niz 11 znakow")
+lut 20, 2018 6:38:45 PM gra.ActionFrame actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:40:42 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:40:43 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:40:44 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:40:45 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 6:40:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:40:45 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 6:40:46 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 6:40:46 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 6:40:47 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 6:40:49 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:40:49 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:40:49 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:40:49 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:40:49 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:40:49 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:40:54 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:40:54 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@35568215]
+lut 20, 2018 6:40:54 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:40:54 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@18926e0]
+lut 20, 2018 6:40:54 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 6:40:56 PM gra.ActionFrame actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:43:15 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:43:17 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:43:18 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@18926e0]
+lut 20, 2018 6:43:18 PM gra.Menu zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@35568215]
+lut 20, 2018 6:43:18 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@35568215]
+lut 20, 2018 6:43:18 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 6:43:18 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 6:43:18 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:43:19 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:45:32 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:45:36 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:45:37 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:45:39 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:45:45 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 6:45:46 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 6:45:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:45:47 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:49:25 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:49:27 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:49:29 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 6:49:30 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:49:31 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@18926e0]
+lut 20, 2018 6:49:31 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@35568215]
+lut 20, 2018 6:49:31 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 6:49:31 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 6:49:31 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 6:49:32 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 6:49:32 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:49:37 PM gra.ActionFrame actionPerformed
+INFO: zaladowanie gry: zapis2
+lut 20, 2018 6:49:38 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 6:49:38 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 6:55:15 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 6:55:16 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 6:55:18 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 6:55:18 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 6:55:18 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 6:55:19 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@77555644]
+lut 20, 2018 6:55:19 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@758fb899]
+lut 20, 2018 6:55:19 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@306a6e14]
+lut 20, 2018 6:55:19 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@306a6e14]
+lut 20, 2018 6:55:19 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 8:27:01 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:27:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:27:48 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis1
+lut 20, 2018 8:27:52 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:27:54 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:32:33 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:33:15 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:33:17 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:33:18 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:34:37 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:34:39 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:34:40 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:34:52 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@53243687]
+lut 20, 2018 8:34:52 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@53243687]
+lut 20, 2018 8:34:52 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@74fc445f]
+lut 20, 2018 8:34:52 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@4f3748a1]
+lut 20, 2018 8:34:52 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 8:35:35 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:35:36 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:35:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:37:37 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:37:39 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:37:40 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:46:52 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:46:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:46:55 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis1
+lut 20, 2018 8:46:55 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:46:56 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:47:01 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:47:02 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:47:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:48:15 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:48:16 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:48:17 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:49:11 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:49:12 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:49:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:50:39 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:50:40 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:50:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:50:49 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:50:50 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:50:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:51:11 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:51:12 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:51:13 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:51:29 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:51:30 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:51:31 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:52:04 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:52:04 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:52:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:55:41 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:55:43 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 8:55:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:55:47 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:55:48 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:56:10 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:56:12 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 8:56:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:56:15 PM gra.Prosterno actionPerformed
+INFO: zapisanie gry zapis3
+lut 20, 2018 8:56:15 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:15 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:15 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:16 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:16 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 8:56:17 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 8:56:41 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:56:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:56:43 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 8:57:41 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:57:41 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 8:57:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:58:20 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:58:21 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 8:58:23 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:58:31 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 8:58:33 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 8:59:44 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 8:59:45 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 8:59:47 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:59:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:59:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:59:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:59:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 8:59:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:00:46 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:00:47 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:00:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:00:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:00:53 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:01:34 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:01:37 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:01:37 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:01:39 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 9:01:40 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:01:40 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H3
+lut 20, 2018 9:01:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:01:43 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 9:01:43 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 12 na pole H6
+lut 20, 2018 9:01:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:01:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:01:44 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 9:01:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:01:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:02:00 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:02:01 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:02:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:02:38 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:02:39 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:02:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:02:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 9:02:41 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole H3
+lut 20, 2018 9:02:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:02:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:03:06 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:03:07 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:03:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:04:07 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:04:08 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:04:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:04:25 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:04:26 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:04:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:04:35 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:04:36 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:04:37 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:04:44 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:04:46 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:04:47 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:04:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:04:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:05:01 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:05:28 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:05:28 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:05:29 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 9:05:30 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole H3
+lut 20, 2018 9:05:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:05:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:05:31 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:07:40 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:07:41 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:07:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:07:43 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:07:44 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@35568215]
+lut 20, 2018 9:07:44 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@5feb7a19]
+lut 20, 2018 9:07:44 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@7cdb9052]
+lut 20, 2018 9:07:44 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@7cdb9052]
+lut 20, 2018 9:07:44 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:08:14 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:08:17 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:08:18 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:08:20 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:08:21 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@91df66f]
+lut 20, 2018 9:08:21 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@3bc1776a]
+lut 20, 2018 9:08:21 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@64158771]
+lut 20, 2018 9:08:21 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@64158771]
+lut 20, 2018 9:08:21 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:09:52 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:09:53 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:09:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:09:54 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 9:09:55 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 9:09:55 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:09:56 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@35ea7da5]
+lut 20, 2018 9:09:56 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@31d5e2b3]
+lut 20, 2018 9:09:56 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@112caddb]
+lut 20, 2018 9:09:56 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@112caddb]
+lut 20, 2018 9:09:56 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:11:04 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:11:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:11:08 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:11:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:11:58 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:12:00 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:12:02 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:12:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:12:52 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:12:53 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:12:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:12:57 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@18926e0]
+lut 20, 2018 9:12:57 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@35568215]
+lut 20, 2018 9:12:57 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 9:12:57 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 9:12:57 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:12:58 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:12:59 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:13:00 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@18926e0]
+lut 20, 2018 9:13:00 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@35568215]
+lut 20, 2018 9:13:00 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 9:13:00 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 9:13:00 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:13:37 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:13:39 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:13:39 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:13:39 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:13:40 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:13:40 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:14:31 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:14:32 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:14:34 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@18926e0]
+lut 20, 2018 9:14:34 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@35568215]
+lut 20, 2018 9:14:34 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 9:14:34 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@5feb7a19]
+lut 20, 2018 9:14:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:14:34 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:15:41 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:15:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:17:04 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:17:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:17:07 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis1
+lut 20, 2018 9:17:12 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 9:17:12 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 9:19:54 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:19:57 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:20:00 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:20:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:20:20 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:20:22 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:20:25 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:20:26 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:20:27 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@35ea7da5]
+lut 20, 2018 9:20:27 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@31d5e2b3]
+lut 20, 2018 9:20:27 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@112caddb]
+lut 20, 2018 9:20:27 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@112caddb]
+lut 20, 2018 9:20:27 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:20:50 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:20:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:20:53 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:20:54 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:20:55 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@5feb7a19]
+lut 20, 2018 9:20:55 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@7cdb9052]
+lut 20, 2018 9:20:55 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@34ad070f]
+lut 20, 2018 9:20:55 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@34ad070f]
+lut 20, 2018 9:20:55 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:22:42 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:22:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:22:56 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 9:22:57 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 9:23:00 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:23:24 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:23:25 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:23:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:24:08 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:24:09 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:24:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:26:49 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:26:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:27:43 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:27:45 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:27:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:27:56 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:27:58 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:27:59 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:28:09 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:28:11 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:28:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:29:13 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:29:14 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:29:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:32:36 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:32:38 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:32:38 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 9:32:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:32:39 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 9:32:40 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 9:32:40 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 9:32:41 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 9:32:42 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 9:34:49 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:34:51 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:34:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:34:54 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz1 ma wiecej niz 11 znakow")
+lut 20, 2018 9:34:57 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:35:57 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:35:59 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:35:59 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:36:02 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz1 ma wiecej niz 11 znakow")
+lut 20, 2018 9:36:04 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:36:08 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz1 ma wiecej niz 11 znakow")
+lut 20, 2018 9:36:10 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz2 ma wiecej niz 11 znakow")
+lut 20, 2018 9:36:16 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz1 ma wiecej niz 11 znakow")
+lut 20, 2018 9:36:36 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:36:37 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:36:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:36:39 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz2 ma wiecej niz 11 znakow")
+lut 20, 2018 9:36:42 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@664a6f39]
+lut 20, 2018 9:36:42 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@23a9e59f]
+lut 20, 2018 9:36:42 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@3e345e29]
+lut 20, 2018 9:36:42 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@3e345e29]
+lut 20, 2018 9:36:42 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:38:04 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:38:05 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:38:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:38:12 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz1 ma wiecej niz 11 znakow")
+lut 20, 2018 9:38:18 PM gra.Ustawienia actionPerformed
+WARNING: TooLongNameException("nazwa gracz2 ma wiecej niz 11 znakow")
+lut 20, 2018 9:38:25 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:38:27 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:38:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:38:29 PM gra.Ustawienia actionPerformed
+WARNING: NoNameException("brak nazwy gracza1")
+lut 20, 2018 9:38:31 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:44:31 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:44:32 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:44:36 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:44:36 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:44:36 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:44:36 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:44:36 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:44:37 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:44:40 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:45:53 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:45:54 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 9:45:56 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:45:57 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:45:57 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 9:45:59 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 9:46:02 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:02 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:02 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:46:02 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:46:02 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:46:05 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:46:07 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 9:46:14 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:46:15 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:46:15 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:46:16 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 9:46:16 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 9:46:17 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 9:46:17 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 9:46:18 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 9:46:18 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 9:46:19 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:19 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:19 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:46:19 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:46:19 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:46:24 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:46:27 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:27 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:27 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:46:27 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:46:27 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:46:28 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:46:29 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:46:29 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:46:30 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:46:30 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:46:31 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:46:32 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:46:32 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:46:33 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:46:33 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:46:33 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:46:33 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:46:34 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:46:34 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:46:35 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:46:35 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:46:36 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:36 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:36 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:46:36 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:46:36 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:46:38 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:46:38 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:46:38 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:46:38 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:46:38 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@2782fdfc]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@842bd14]
+lut 20, 2018 9:46:38 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@66d0641c]
+lut 20, 2018 9:46:38 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:49:22 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:49:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:49:31 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:49:34 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:49:38 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:49:41 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:49:42 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:49:50 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:49:54 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:49:55 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:49:57 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:50:00 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:50:03 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:50:07 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:50:07 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:50:07 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@696dd81]
+lut 20, 2018 9:50:07 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@6b404e5c]
+lut 20, 2018 9:50:07 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:50:09 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:50:10 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:50:10 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:50:10 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@696dd81]
+lut 20, 2018 9:50:10 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@6b404e5c]
+lut 20, 2018 9:50:10 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:50:12 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:50:13 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 9:50:13 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 9:50:14 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 9:50:15 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:50:15 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:50:15 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@696dd81]
+lut 20, 2018 9:50:15 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@6b404e5c]
+lut 20, 2018 9:50:15 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 9:50:53 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 9:50:54 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 9:50:54 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 9:50:55 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 9:51:09 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:51:13 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:51:14 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:52:56 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:52:58 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:53:36 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 9:53:39 PM gra.ActionFrame zmiengraczy
+INFO: gra.ZmianaGraczyEvent[source=gra.ZmianaGraczy@6b404e5c]
+lut 20, 2018 9:53:39 PM gra.ActionFrame zmientlo
+INFO: gra.ZmianaTlaEvent[source=gra.ZmianaTla@696dd81]
+lut 20, 2018 9:53:39 PM gra.Menu zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:53:39 PM gra.ActionFrame zmienjezyk
+INFO: gra.ZmianaJezykaEvent[source=gra.ZmianaJezyka@759572bf]
+lut 20, 2018 9:53:39 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 9:53:44 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:53:48 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:54:25 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:54:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:54:31 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:54:37 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:54:47 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 9:54:49 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:54:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:54:54 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:55:00 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:55:04 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 9:55:05 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 9:55:07 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 9:55:08 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 9:55:10 PM gra.ActionFrame actionPerformed
+INFO: zaladowanie gry: zapis1
+lut 20, 2018 9:55:11 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 9:55:12 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 9:55:18 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:55:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 9:55:22 PM gra.PlTime refresh
+INFO: data i czas pobrane

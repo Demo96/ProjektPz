@@ -48,16 +48,17 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 	public String[] gracz1t = { "Gracz1: ", "Player1: " };
 	public String[] gracz2t = { "Gracz2: ", "Player2: " };
 	public String[] wygranat = { "Wygrywa gracz: ", "Winner player:  " };
-	private String url = "jdbc:postgresql://localhost/prosterno";
-	private String user = "asdf";
-	private String password = "sql";
+	private String url = "";
+	private String user = "";
+	private String password = "";
 	public boolean wygrana = false;
+	public int jezykGra;
 
 	public void MouseSpyApplet() {
 		addMouseListener(this);
 	}
 
-	public Prosterno(ActionFrame actionFrame, int zapis) {
+	public Prosterno(ActionFrame actionFrame, int zapis,Color kt,int jezyk) {
 		SpringLayout layout = new SpringLayout();
 		setLayout(layout);
 		MouseSpyApplet();
@@ -65,11 +66,12 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 		main = actionFrame;
 		kolor1 = main.kolor1;
 		kolor2 = main.kolor2;
-		kolorTla = main.tlo;
-		powrot = new Button(powrott[main.jezyk]);
-		zapisz1 = new Button(zapisz1t[main.jezyk]);
-		zapisz2 = new Button(zapisz2t[main.jezyk]);
-		zapisz3 = new Button(zapisz3t[main.jezyk]);
+		kolorTla = kt;
+		jezykGra=jezyk;
+		powrot = new Button(powrott[jezykGra]);
+		zapisz1 = new Button(zapisz1t[jezykGra]);
+		zapisz2 = new Button(zapisz2t[jezykGra]);
+		zapisz3 = new Button(zapisz3t[jezykGra]);
 		powrot.addActionListener(this);
 		zapisz1.addActionListener(this);
 		zapisz2.addActionListener(this);
@@ -110,14 +112,14 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 		}
 		g.setColor(kolor1);
 		g.setFont(new Font("", Font.BOLD | Font.ITALIC, 30));
-		g.drawString(gracz1t[main.jezyk] + main.nazwa1, (int) (0.5 * width), (int) (0.87 * height));
+		g.drawString(gracz1t[jezykGra] + main.nazwa1, (int) (0.5 * width), (int) (0.87 * height));
 		g.setColor(kolor2);
-		g.drawString(gracz2t[main.jezyk] + main.nazwa2, (int) (0.5 * width), (int) (0.94 * height));
+		g.drawString(gracz2t[jezykGra] + main.nazwa2, (int) (0.5 * width), (int) (0.94 * height));
 		g.setColor(Color.BLACK);
 		if (wygrana)
-			g.drawString(wygranat[main.jezyk], (int) (0.69 * width), (int) (0.18 * height));
+			g.drawString(wygranat[jezykGra], (int) (0.69 * width), (int) (0.18 * height));
 		else
-			g.drawString(turat[main.jezyk], (int) (0.69 * width), (int) (0.18 * height));
+			g.drawString(turat[jezykGra], (int) (0.69 * width), (int) (0.18 * height));
 		g.setColor(czyjruch);
 		if (czyjruch == kolor1) {
 			g.drawString(main.nazwa1, (int) (0.69 * width), (int) (0.3 * height));
@@ -521,4 +523,5 @@ public class Prosterno extends JPanel implements MouseListener, ActionListener {
 	public void AktualnyGracz(Color x) {
 		czyjruch = x;
 	}
+
 }
