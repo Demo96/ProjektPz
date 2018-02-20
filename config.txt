@@ -1,0 +1,8 @@
+width = 800
+height = 600
+name1 = gracz1
+name2 = LOLxd
+background = 2
+color1 = 2
+color2 = 2
+language = 2

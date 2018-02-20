@@ -1,0 +1,1356 @@
+lut 20, 2018 2:47:26 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 2:47:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 2:47:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 2:47:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 2:47:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 2:47:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 2:47:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 2:47:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:26:48 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:26:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:28:26 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:28:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:28:30 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:29:30 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:29:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:29:36 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:30:05 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:31:21 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:31:23 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:31:23 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:31:40 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:31:42 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:31:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:31:44 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 3:31:47 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 3:31:48 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:31:48 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 3:31:49 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 3:31:49 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 3:31:50 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 3:32:18 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:32:19 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:32:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:32:22 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 3:41:03 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:41:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:06 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:41:07 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:41:08 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis2
+lut 20, 2018 3:41:09 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:41:09 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:41:11 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:41:11 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole G8
+lut 20, 2018 3:41:11 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 14graczowi 2 pozostalo 6 pionkow
+lut 20, 2018 3:41:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:24 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:41:53 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:42:48 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:42:49 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:42:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:42:51 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:42:52 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:42:53 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:42:54 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis2
+lut 20, 2018 3:42:54 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:42:54 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:42:55 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:42:55 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole G8
+lut 20, 2018 3:42:55 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 14graczowi 2 pozostalo 6 pionkow
+lut 20, 2018 3:42:56 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:42:56 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:42:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:08 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:19 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:55 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:43:56 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:43:57 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:57 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:57 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:57 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:57 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:57 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:57 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:58 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:58 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:43:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:43:59 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:00 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H3
+lut 20, 2018 3:44:01 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:02 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:04 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:04 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:04 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:04 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:05 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:05 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:05 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:44:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:44:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:35 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:45:36 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:45:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:38 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:39 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:39 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:40 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:40 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:40 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:40 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:40 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:40 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:41 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:41 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:42 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H3
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:42 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 3:45:43 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 3:45:43 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 3:45:43 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 3:45:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:43 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole H6
+lut 20, 2018 3:45:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:43 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:45:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:44 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:45:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:45 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis2
+lut 20, 2018 3:45:45 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:45:45 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:45:45 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:45:46 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole G8
+lut 20, 2018 3:45:46 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 14graczowi 2 pozostalo 6 pionkow
+lut 20, 2018 3:45:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:48 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:48 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:48 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:51 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:51 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:53 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:54 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:45:59 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:46:04 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:46:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:48:37 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 3:48:39 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis2
+lut 20, 2018 3:48:39 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:48:39 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:48:40 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:48:40 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:48:41 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:48:42 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 3:48:42 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 3:48:43 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 3:48:43 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 3:48:43 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 3:48:44 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 3:48:44 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 3:48:44 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 3:48:47 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:48:47 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 3:48:48 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 3:48:49 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 3:48:49 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 3:48:50 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:48:50 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:48:50 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:48:50 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:48:51 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:48:52 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 3:48:53 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:48:57 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:48:58 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:03 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:49:04 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:49:06 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:49:07 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:49:07 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:49:07 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:49:08 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:49:17 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:49:18 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:49:18 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:49:18 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:49:19 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 3:49:19 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 3:49:20 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 3:49:20 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 3:49:21 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na gray
+lut 20, 2018 3:49:21 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na white
+lut 20, 2018 3:49:22 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 3:49:22 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 3:49:22 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 3:49:23 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 3:49:23 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na black
+lut 20, 2018 3:49:24 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 3:49:25 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:49:25 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:49:26 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole H3
+lut 20, 2018 3:49:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:27 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:49:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:27 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 12 na pole H6
+lut 20, 2018 3:49:28 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:49:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:28 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole I4
+lut 20, 2018 3:49:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:28 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:49:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:29 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 12 na pole I5
+lut 20, 2018 3:49:29 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole I2
+lut 20, 2018 3:49:29 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:29 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:49:29 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole H3
+lut 20, 2018 3:49:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:49:31 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:49:33 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 3:49:34 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 3:49:36 PM gra.ActionFrame actionPerformed
+INFO: zaladowanie gry: zapis3
+lut 20, 2018 3:49:37 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:49:37 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:49:39 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 3:49:41 PM gra.ActionFrame actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:49:43 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:49:53 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 3:49:58 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:49:59 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:49:59 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole H3
+lut 20, 2018 3:50:00 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:50:00 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:00 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:00 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 12 na pole H6
+lut 20, 2018 3:50:01 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:01 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:01 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:50:01 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 3:50:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:02 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 3:50:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:02 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole G4
+lut 20, 2018 3:50:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:03 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 3:50:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:03 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 12 na pole G5
+lut 20, 2018 3:50:03 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 7graczowi 1 pozostalo 8 pionkow
+lut 20, 2018 3:50:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:04 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:50:04 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:04 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:04 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole F3
+lut 20, 2018 3:50:04 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 3:50:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:05 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole F4
+lut 20, 2018 3:50:05 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 6graczowi 1 pozostalo 7 pionkow
+lut 20, 2018 3:50:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:06 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 5
+lut 20, 2018 3:50:06 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:50:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:07 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:07 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole F3
+lut 20, 2018 3:50:07 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 10 na pole F6
+lut 20, 2018 3:50:07 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 10
+lut 20, 2018 3:50:07 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 10 na pole E5
+lut 20, 2018 3:50:08 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:08 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 5
+lut 20, 2018 3:50:08 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 3:50:08 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:08 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:08 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:50:09 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole E4
+lut 20, 2018 3:50:09 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 10graczowi 2 pozostalo 8 pionkow
+lut 20, 2018 3:50:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:09 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 3:50:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:10 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 3:50:10 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole F6
+lut 20, 2018 3:50:10 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 5
+lut 20, 2018 3:50:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:11 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:11 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole F5
+lut 20, 2018 3:50:11 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 8graczowi 2 pozostalo 7 pionkow
+lut 20, 2018 3:50:11 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:11 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:12 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 3:50:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:12 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole F6
+lut 20, 2018 3:50:12 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole F3
+lut 20, 2018 3:50:12 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 5
+lut 20, 2018 3:50:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:13 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:13 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 3:50:13 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:13 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole G4
+lut 20, 2018 3:50:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:14 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 3:50:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:14 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole G5
+lut 20, 2018 3:50:14 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole G2
+lut 20, 2018 3:50:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:15 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:15 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 3
+lut 20, 2018 3:50:15 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 3:50:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:18 PM gra.Prosterno mousePressed
+WARNING: UnavaibleMoveException("ruch niedozwolony")
+lut 20, 2018 3:50:18 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 3 na pole I2
+lut 20, 2018 3:50:18 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:19 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:19 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:50:19 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:50:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:20 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 3:50:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:21 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:22 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:22 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:50:23 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:23 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole D6
+lut 20, 2018 3:50:24 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 5
+lut 20, 2018 3:50:24 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:24 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole F3
+lut 20, 2018 3:50:25 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 3:50:25 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:25 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:25 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole F4
+lut 20, 2018 3:50:25 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 5graczowi 1 pozostalo 6 pionkow
+lut 20, 2018 3:50:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:26 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:26 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 3
+lut 20, 2018 3:50:26 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 3 na pole H3
+lut 20, 2018 3:50:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:27 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:27 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 3:50:27 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole G3
+lut 20, 2018 3:50:27 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 3graczowi 1 pozostalo 5 pionkow
+lut 20, 2018 3:50:28 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:28 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:28 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 2 na pole G2
+lut 20, 2018 3:50:28 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole G5
+lut 20, 2018 3:50:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:28 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:29 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:29 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:50:29 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H4
+lut 20, 2018 3:50:29 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:30 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 2 na pole H3
+lut 20, 2018 3:50:30 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H6
+lut 20, 2018 3:50:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:30 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:50:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:30 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole I5
+lut 20, 2018 3:50:30 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:31 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:31 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:31 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:31 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 2 na pole I4
+lut 20, 2018 3:50:31 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole I7
+lut 20, 2018 3:50:31 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 3:50:31 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:32 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:32 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H6
+lut 20, 2018 3:50:32 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:32 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:32 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:33 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 2 na pole H5
+lut 20, 2018 3:50:33 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 6graczowi 2 pozostalo 6 pionkow
+lut 20, 2018 3:50:33 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 9
+lut 20, 2018 3:50:33 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 9 na pole I7
+lut 20, 2018 3:50:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:34 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:34 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 2 na pole I6
+lut 20, 2018 3:50:34 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 9graczowi 2 pozostalo 5 pionkow
+lut 20, 2018 3:50:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:34 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:35 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:35 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 3:50:35 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole G7
+lut 20, 2018 3:50:36 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:36 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 2 na pole H7
+lut 20, 2018 3:50:36 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole E7
+lut 20, 2018 3:50:36 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:36 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:36 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:36 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 3:50:37 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:37 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole F6
+lut 20, 2018 3:50:37 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 2
+lut 20, 2018 3:50:37 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 2 na pole G8
+lut 20, 2018 3:50:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:38 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:50:44 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:50:46 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 3:50:48 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 3:50:53 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 3:50:54 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:50:55 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:50:58 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 3:51:01 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 3:51:02 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 3:51:03 PM gra.Ustawienia actionPerformed
+INFO: przywrocenie ustawien domyslnych
+lut 20, 2018 3:51:08 PM gra.ActionFrame actionPerformed
+INFO: zaladowanie gry: zapis2
+lut 20, 2018 3:51:08 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:51:08 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 3:51:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 3:51:19 PM gra.ActionFrame actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 3:51:20 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 4:00:37 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 4:00:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:02:15 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 4:03:01 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 4:03:01 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H3
+lut 20, 2018 4:03:02 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 4:03:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:02 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole H6
+lut 20, 2018 4:03:02 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:02 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 4:03:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:03 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole G4
+lut 20, 2018 4:03:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:03 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 4:03:03 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:04 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole G5
+lut 20, 2018 4:03:04 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole G2
+lut 20, 2018 4:03:04 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:04 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 5
+lut 20, 2018 4:03:04 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole D3
+lut 20, 2018 4:03:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:05 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 4:03:05 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:06 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole F4
+lut 20, 2018 4:03:06 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 4:03:06 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H3
+lut 20, 2018 4:03:06 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:07 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:07 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:07 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 10
+lut 20, 2018 4:03:07 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 10 na pole F6
+lut 20, 2018 4:03:07 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:08 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:08 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 5
+lut 20, 2018 4:03:08 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:08 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole E4
+lut 20, 2018 4:03:08 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole H4
+lut 20, 2018 4:03:08 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 6graczowi 1 pozostalo 8 pionkow
+lut 20, 2018 4:03:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:09 PM gra.Prosterno mousePressed
+WARNING: WrongPawnException("tura drugiego gracza")
+lut 20, 2018 4:03:09 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:10 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:10 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 10
+lut 20, 2018 4:03:11 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 10 na pole I3
+lut 20, 2018 4:03:11 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 6graczowi 1 pozostalo 7 pionkow
+lut 20, 2018 4:03:11 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:11 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 3
+lut 20, 2018 4:03:12 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 3 na pole I2
+lut 20, 2018 4:03:12 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 9 na pole I5
+lut 20, 2018 4:03:12 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:12 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 9
+lut 20, 2018 4:03:13 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:13 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:13 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 9 na pole H4
+lut 20, 2018 4:03:13 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 3
+lut 20, 2018 4:03:13 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:13 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 3 na pole H3
+lut 20, 2018 4:03:13 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 9 na pole H6
+lut 20, 2018 4:03:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:14 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:14 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 8
+lut 20, 2018 4:03:15 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 8 na pole E5
+lut 20, 2018 4:03:15 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 5 na pole E2
+lut 20, 2018 4:03:15 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 4
+lut 20, 2018 4:03:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:16 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 4 na pole D3
+lut 20, 2018 4:03:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:16 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 4:03:16 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:16 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole D6
+lut 20, 2018 4:03:17 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:17 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 4
+lut 20, 2018 4:03:17 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:17 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 4 na pole C4
+lut 20, 2018 4:03:18 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:18 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 4:03:18 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:18 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 12 na pole E7
+lut 20, 2018 4:03:18 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:19 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 3
+lut 20, 2018 4:03:19 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:19 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 3 na pole G4
+lut 20, 2018 4:03:19 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:20 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:03:22 PM gra.Prosterno actionPerformed
+INFO: zapisanie gry zapis3
+lut 20, 2018 4:03:23 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:23 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:23 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:03:24 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:03:24 PM gra.Prosterno zapisz
+WARNING: Zapytanie nie zwróci³o ¿adnych wyników.
+lut 20, 2018 4:04:06 PM gra.ActionFrame actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 4:04:39 PM gra.Menu actionPerformed
+INFO: zaladowanie gry: zapis3
+lut 20, 2018 4:04:39 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:04:39 PM gra.Prosterno connect
+INFO: Connected to the PostgreSQL server successfully.
+lut 20, 2018 4:04:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:04:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:06:07 PM gra.ActionFrame actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 4:06:13 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl1
+lut 20, 2018 4:08:14 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 4:08:15 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 4:08:30 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 4:08:30 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 4:08:32 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 4:08:33 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 4:09:04 PM gra.ActionFrame actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 4:09:06 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 4:09:08 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 4:09:08 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na angielski
+lut 20, 2018 4:09:09 PM gra.Ustawienia actionPerformed
+INFO: gracz2 zmiana koloru na magenta
+lut 20, 2018 4:09:24 PM gra.Ustawienia actionPerformed
+INFO: gracz1 zmiana koloru na cyan
+lut 20, 2018 4:09:31 PM gra.Ustawienia actionPerformed
+INFO: tlo zmiana koloru na yellow
+lut 20, 2018 4:09:33 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 4:09:35 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 4:09:43 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 4:09:44 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl2
+lut 20, 2018 4:09:45 PM gra.ActionFrame actionPerformed
+INFO: zmiana stylu: styl3
+lut 20, 2018 4:37:31 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+lut 20, 2018 4:37:36 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:38 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+lut 20, 2018 4:37:39 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 4:37:40 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:41 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole H3
+lut 20, 2018 4:37:42 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:43 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 12
+lut 20, 2018 4:37:43 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 12 na pole H6
+lut 20, 2018 4:37:44 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 4:37:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:44 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole G4
+lut 20, 2018 4:37:44 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 4:37:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:45 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole F6
+lut 20, 2018 4:37:45 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 7
+lut 20, 2018 4:37:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:46 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 7 na pole H5
+lut 20, 2018 4:37:46 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 12graczowi 2 pozostalo 8 pionkow
+lut 20, 2018 4:37:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:47 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:47 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 11
+lut 20, 2018 4:37:48 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 11 na pole G5
+lut 20, 2018 4:37:48 PM gra.Prosterno UsunPionka
+INFO: usunieto pionka nr 7graczowi 1 pozostalo 8 pionkow
+lut 20, 2018 4:37:48 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+lut 20, 2018 4:37:48 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:48 PM gra.Prosterno PrzesunPionka
+INFO: przesuniecie pionka nr 6 na pole H3
+lut 20, 2018 4:37:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:49 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:50 PM gra.PlTime refresh
+INFO: data i czas pobrane
+lut 20, 2018 4:37:51 PM gra.Prosterno actionPerformed
+INFO: przejscie do menu
+lut 20, 2018 4:37:52 PM gra.Menu actionPerformed
+INFO: przejscie do ustawien
+lut 20, 2018 4:37:53 PM gra.Ustawienia actionPerformed
+INFO: zmiana jezyka na polski
+lut 20, 2018 4:37:54 PM gra.Ustawienia actionPerformed
+INFO: zapisano ustawienia
+lut 20, 2018 4:37:54 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry

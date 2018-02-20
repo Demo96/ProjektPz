@@ -1,0 +1,8 @@
+<?xml version = "1.0"?>
+<class>
+   <bazakonto>
+      <url>jdbc:postgresql://localhost/prosterno</url>
+      <user>asdf</user>
+      <password>sql</password>
+   </bazakonto>
+</class>
