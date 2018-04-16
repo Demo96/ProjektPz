@@ -3260,3 +3260,31 @@ lut 20, 2018 11:40:45 PM gra.Prosterno przesunpionka
 INFO: gra.PrzesunPionkaEvent[source=gra.PrzesunPionka@6186b5f3]przesuniecie pionka nr 12 na pole H6
 lut 20, 2018 11:40:46 PM gra.PlTime refresh
 INFO: data i czas pobrane
+mar 19, 2018 5:55:42 PM gra.ActionFrame <init>
+INFO: rozpoczecie programu
+mar 19, 2018 5:55:53 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:22 PM gra.Menu actionPerformed
+INFO: utworzenie nowej gry
+mar 19, 2018 5:56:24 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:43 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:44 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:45 PM gra.Prosterno mousePressed
+INFO: wybrano pionka nr 6
+mar 19, 2018 5:56:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:45 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:45 PM gra.Prosterno przesunpionka
+INFO: gra.PrzesunPionkaEvent[source=gra.PrzesunPionka@3ce683fb]przesuniecie pionka nr 6 na pole H3
+mar 19, 2018 5:56:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
+mar 19, 2018 5:56:46 PM gra.PlTime refresh
+INFO: data i czas pobrane
